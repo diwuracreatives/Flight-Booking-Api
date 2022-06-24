@@ -1,0 +1,15 @@
+{
+  "name": "flight-booking-api",
+  "version": "1.0.0",
+  "description": "A flight Booking Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bolu Adediwura",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18"
+  }
+}
